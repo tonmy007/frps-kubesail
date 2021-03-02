@@ -12,3 +12,4 @@ Deployments 页面，应用 Frps 的 Network 选项卡中，80 端口（用于�
 
 heroku
 https://dashboard.heroku.com/new?template=https://github.com/t66y100/frps-kubesail
+heroku https://dashboard.heroku.com/new?template=https://github.com/tonmy007/frps-kubesail
